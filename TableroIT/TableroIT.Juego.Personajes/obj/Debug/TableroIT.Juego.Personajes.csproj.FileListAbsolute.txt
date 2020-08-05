@@ -1,0 +1,6 @@
+C:\Users\rodnovas\source\repos\TableroIT\TableroIT.Juego.Personajes\bin\Debug\TableroIT.Juego.Personajes.dll
+C:\Users\rodnovas\source\repos\TableroIT\TableroIT.Juego.Personajes\bin\Debug\TableroIT.Juego.Personajes.pdb
+C:\Users\rodnovas\source\repos\TableroIT\TableroIT.Juego.Personajes\obj\Debug\TableroIT.Juego.Personajes.csprojAssemblyReference.cache
+C:\Users\rodnovas\source\repos\TableroIT\TableroIT.Juego.Personajes\obj\Debug\TableroIT.Juego.Personajes.csproj.CoreCompileInputs.cache
+C:\Users\rodnovas\source\repos\TableroIT\TableroIT.Juego.Personajes\obj\Debug\TableroIT.Juego.Personajes.dll
+C:\Users\rodnovas\source\repos\TableroIT\TableroIT.Juego.Personajes\obj\Debug\TableroIT.Juego.Personajes.pdb

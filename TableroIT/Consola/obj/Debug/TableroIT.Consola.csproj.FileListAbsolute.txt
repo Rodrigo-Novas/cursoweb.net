@@ -1,0 +1,10 @@
+C:\Users\rodnovas\source\repos\TableroIT\Consola\bin\Debug\Consola.exe.config
+C:\Users\rodnovas\source\repos\TableroIT\Consola\bin\Debug\Consola.exe
+C:\Users\rodnovas\source\repos\TableroIT\Consola\bin\Debug\Consola.pdb
+C:\Users\rodnovas\source\repos\TableroIT\Consola\bin\Debug\TableroIT.Juego.Personajes.dll
+C:\Users\rodnovas\source\repos\TableroIT\Consola\bin\Debug\TableroIT.Juego.Personajes.pdb
+C:\Users\rodnovas\source\repos\TableroIT\Consola\obj\Debug\TableroIT.Consola.csprojAssemblyReference.cache
+C:\Users\rodnovas\source\repos\TableroIT\Consola\obj\Debug\TableroIT.Consola.csproj.CoreCompileInputs.cache
+C:\Users\rodnovas\source\repos\TableroIT\Consola\obj\Debug\TableroIT.Consola.csproj.CopyComplete
+C:\Users\rodnovas\source\repos\TableroIT\Consola\obj\Debug\Consola.exe
+C:\Users\rodnovas\source\repos\TableroIT\Consola\obj\Debug\Consola.pdb
